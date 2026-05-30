@@ -1,0 +1,12 @@
+# Secrets — never commit
+.env
+.env.local
+**/.env
+**/.env.local
+
+# System files
+.DS_Store
+
+# Dependencies & logs
+node_modules/
+*.log
