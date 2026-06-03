@@ -1,25 +1,32 @@
-# Gallery Identity — Gallery Fotoatelier
+# Gallery Identity — Shared Reference
 
-This is the single source of truth for who the gallery is. Every agent reads this before producing any content.
+> Single source of truth for all Fotoatelier agents.
+> Update values here once; every agent reads from this file.
 
-## Core facts
+## Legal Entity
 
-- **Gallery:** Gallery Fotoatelier
-- **Director:** Maka Buadze
+- **Georgian:** შპს ფოტოატელიე, ს/კ 404592286
+- **English:** LTD Fotoatelier
+- **Tax ID (საიდენტიფიკაციო კოდი):** 404592286
+- **Jurisdiction:** Georgia
+- **Primary location / venue:** Tbilisi, Georgia
+
+## Brand
+
+- **Name:** Gallery Fotoatelier
 - **Website:** galleryfotoatelier.com
 - **Instagram:** @gallery.fotoatelier
-- **Location:** Tbilisi, Georgia
-- **Mission:** Georgian photography to the world
-- **Primary market:** International collectors
+- **Facebook:** Gallery Fotoatelier
+- **Director:** Maka Buadze
+- **Contact:** info@galleryfotoatelier.com
 
-## What we are
+## Currency Rules
 
-Gallery Fotoatelier is a fine art photography gallery based in Tbilisi, Georgia. We bring Georgian photography to the world, presenting it to an international audience of collectors with the seriousness and ambition it deserves.
+- **GEL (Georgian Lari, ₾)** is the official accounting and legal currency. All invoices and tax-relevant figures are recorded in GEL, because the entity is registered in Georgia and reports under Georgian law.
+- For **international collectors**, a USD or EUR amount may be shown **in addition** to the GEL figure, as a payment convenience. When doing so, always state the **exchange rate and the date** it was taken.
+- Never replace the GEL figure — always present GEL, then the foreign-currency equivalent alongside it.
 
-## Who we speak to
+## Partners (current)
 
-International collectors are our primary market. We write in English for all international content. Our audience is sophisticated, discerning, and global — we meet them at that level.
-
-## How we sound
-
-Sophisticated, warm, and confident. We are proud of our work and our roots. We position the gallery as premium, always. See `brand-rules.md` for the rules that are non-negotiable.
+- ReachArt Visual (@reachart.visual)
+- AFA Art Foundation Anagi
