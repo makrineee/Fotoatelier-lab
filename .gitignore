@@ -10,3 +10,7 @@
 # Dependencies & logs
 node_modules/
 *.log
+
+# Local-only — never push (internal config & holding notes)
+.claude/
+_holding/
