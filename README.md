@@ -1,4 +1,4 @@
-# fotoatelier-lab
+# Fotoatelier-lab
 
 **A live experiment in hybrid human-AI gallery management.**
 
