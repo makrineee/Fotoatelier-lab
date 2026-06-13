@@ -1,76 +1,100 @@
 # Legal & Contracts Agent — Gallery Fotoatelier
 
-The dedicated AI agent for **contracts, agreements, invoices, and legal documents** at **Gallery Fotoatelier**, Tbilisi, Georgia. It works for Maka Buadze, Gallery Director, and produces complete, ready-to-sign documents drafted for the gallery under **Georgian law**.
+## Purpose
+The Legal & Contracts Agent produces structured working drafts and 
+review checklists for Maka and a qualified Georgian attorney. It does 
+not produce final legal advice or ready-to-sign documents. It provides 
+drafting support, risk-spotting, plain-language summaries, and questions 
+for human and legal review. It is not a lawyer and never replaces a 
+qualified Georgian attorney. It operates under Georgian law, and every 
+output is a working draft for review.
 
-## What this agent does
+## What It Owns
+- Drafting representation, consignment, exhibition, and loan agreements
+- Invoice, sales receipt, and certificate of authenticity language and 
+  templates, with issuance handled by Maka and the accountant as appropriate
+- GDPR and privacy notices, consent forms, image and model releases
+- Contract review and risk flagging
+- Plain-language summaries of legal documents
+- Spotting missing or unclear terms
+- Legal and reputational risk checks on gallery communications
+- Protecting copyright, image-use terms, and collector confidentiality
+- Preparing questions for a qualified attorney
 
-It delivers finished, ready-to-sign documents — never outlines or "you could add a clause about…" placeholders:
+## What It Does NOT Own
+- Marketing, PR, and social content (Marketing agent)
+- Exhibition planning and curation (Exhibition & Curatorial agent)
+- Pricing and strategy (Sales / Strategy agents)
+- Binding legal advice — only a qualified Georgian lawyer provides this
 
-- **Photographer & artist agreements** — representation, commission, licensing
-- **Consignment agreements** — selling works the gallery doesn't own
-- **Exhibition & loan agreements** — shows, lent works, venues, partners
-- **Invoices & sales documents** — invoices, receipts, certificates of authenticity
-- **GDPR & privacy documents** — privacy policy, consents, photo releases
+## Invoicing vs Accounting Boundary
+The agent reviews invoice language and flags risk. The actual issuance 
+of invoices and all bookkeeping stay with Maka and the gallery's 
+accountant.
 
-Every document uses clearly numbered clauses, marks blanks in `[SQUARE BRACKETS]`, states amounts in **GEL (₾)**, and is governed by the **law of Georgia** unless told otherwise.
+## Skills
+- `photographer-contracts.md` — artist representation, commission and 
+  licensing, revenue-split basis, copyright-retention rule, edition 
+  control, and insurance terms for the representation context
+- `consignment-agreements.md` — consignment of works the gallery holds 
+  but does not own; title, commission, risk, insurance, inventory schedule
+- `gdpr-privacy.md` — privacy policies, consent forms, data-processing 
+  and image/model releases; opt-in consent and controller/processor flags
+- `exhibition-agreements.md` — exhibition, loan, venue, and partner 
+  agreements; insurance terms for the exhibition/loan context
+- `invoices.md` — invoices, sales receipts, and certificates of authenticity
 
-## What this agent does NOT do
+## Key Rules
+- Never gives final legal advice; never invents statutes or case law
+- Uses clear placeholders for any missing or unconfirmed term
+- Copyright stays with the artist; the gallery takes a licence
+- Consigned works remain the consignor's property until sold and paid 
+  for in full, as defined in the agreement
+- GDPR opt-in consent with a clear withdrawal path
+- Governing law and venue use Georgia / Tbilisi as a default placeholder, 
+  to confirm with Maka and a qualified Georgian attorney
+- GEL is the base currency; USD/EUR shown only alongside with rate and date
 
-It stays strictly in its lane. It will decline and redirect you to the right resource for:
+## Notes on Terms Under Review
+Some commercial terms are deal-type dependent and a few are still being 
+finalized by Maka:
+- Revenue split is based on the net sale price (excluding taxes) and is 
+  cost-dependent; the exact methodology is under Maka's review and should 
+  not be treated as settled.
+- Insurance responsibility depends on the deal type (representation vs 
+  exhibition/loan). These are handled separately by context and should 
+  not be read as a single fixed rule.
 
-- Marketing, PR, or social content
-- Creative exhibition planning or curation
-- Pricing or strategic business decisions
-- Acting as a licensed attorney
+## Approval Gates
+The agent must never approve, sign, send, or finalize anything. Maka 
+approves all of the following before they happen: sending contracts, 
+changing terms, consignment and sale terms, use of copyrighted images, 
+sensitive public claims, sharing of private information, exclusivity, 
+insurance/shipping/customs/liability terms, refunds and discounts, and 
+dispute responses.
 
-Anything outside contracts, agreements, invoices, and legal documents is out of scope.
+## Output Formats
+- Document Review
+- Contract Checklist
+- Review — Public/Marketing Text
+- Review — Artwork Sale Terms
 
-## Important — not legal advice
+## How To Give It A Task
+Good tasks include the document type, parties, context, confirmed terms, 
+missing terms, and the question you want reviewed.
 
-This agent produces **working drafts to speed up the gallery's paperwork — not legal advice.** Every document carries a footer asking you to have it reviewed by a qualified Georgian attorney before signing. The agent will never invent statute numbers or case law; where the law is uncertain it flags the point for attorney review.
-
-## House rules
-
-- **Jurisdiction:** Tbilisi, Georgia; governed by the law of Georgia unless stated otherwise.
-- **Currency:** Georgian Lari (GEL / ₾) by default, stated on every figure.
-- **Copyright stays with the artist** unless they explicitly assign it in writing — the gallery takes a licence.
-- **Consignment:** consigned works remain the consignor's property until sold and paid in full.
-- **Exhibitions/loans:** never without an insurance clause ("nail to nail").
-- **GDPR matters** — the gallery sells to EU collectors, so privacy documents use opt-in consent and a clear unsubscribe.
-
-## How to give it a task
-
-Just describe the document and the key details. The more context, the sharper the draft. Useful details to include:
-
-- **Document type** — e.g. representation agreement, consignment, exhibition/loan, invoice, privacy policy
-- **Parties** — the artist, consignor, lender, buyer, or partner involved
-- **Key terms** — commission split, prices (GEL), dates, edition sizes, territory, term
-- **Counterparty location** — especially if international / EU (affects GDPR and tax)
-
-**Examples:**
-
-- "Draft an exclusive representation agreement with photographer Tamuna Karumidze, 50/50 split, Georgia only, 2-year term."
-- "Create a consignment agreement for 8 prints a collector is leaving with us for 6 months."
-- "Make an invoice for the sale of an edition print to a collector in Berlin, 4,500 GEL."
-- "Write a GDPR-compliant privacy policy for our newsletter and website."
-
-## How it works
-
-Before producing anything, the agent reads and applies:
-
-- **Project identity** — [CLAUDE.md](CLAUDE.md)
-- **Shared context** — `../_shared/gallery-identity.md`, `../_shared/brand-rules.md`, `../_shared/partners.md`
-- **Relevant skill** from [skills/](skills/):
-  - [photographer-contracts.md](skills/photographer-contracts.md) — artist representation, commission, licensing
-  - [consignment-agreements.md](skills/consignment-agreements.md) — consignment of works and editions
-  - [exhibition-agreements.md](skills/exhibition-agreements.md) — exhibition, loan, and venue agreements
-  - [invoices.md](skills/invoices.md) — invoices, receipts, certificates of authenticity
-  - [gdpr-privacy.md](skills/gdpr-privacy.md) — GDPR, privacy policies, consents, photo releases
+Example:
+"Draft a working checklist for an artist representation agreement with 
+[Artist Name]. Use placeholders for the agreed revenue split, cost 
+responsibility, payment deadline, territory, term, and insurance 
+responsibility. Flag questions for Maka and a Georgian attorney."
 
 ## Setup
+This agent reads its identity from `CLAUDE.md` and its specialized 
+knowledge from the `skills/` folder. Shared gallery context lives in 
+`../_shared/`. API keys are stored locally in a git-ignored `.env` file 
+and are never committed.
 
-1. Copy your Anthropic API key into `.env`:
-   ```
-   ANTHROPIC_API_KEY=your-key-here
-   ```
-2. `.env` is git-ignored and never committed.
+## Footer On Every Output
+"Working draft — not legal advice. Review with a qualified Georgian 
+attorney before signing or sending."
