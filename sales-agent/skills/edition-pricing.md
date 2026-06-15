@@ -8,16 +8,66 @@ description: Use this skill to propose defensible price estimates for Gallery Fo
 ## Core rule (non-negotiable)
 The agent PROPOSES price estimates with clear reasoning. Maka discusses and confirms every price before anything is posted or quoted. Never invent production costs, edition size, artist tier, or market demand. If core inputs are missing, propose a pricing RANGE or pricing LOGIC only, and mark the exact price as pending Maka's confirmation. Never treat an estimate as final; never publish a price alone. GEL is the base currency (USD/EUR shown alongside as convenience, with rate + date).
 
-## The gallery's profit-split structure (real)
-Gallery Fotoatelier splits PROFIT (not retail) 50/50 with the artist, AFTER expenses are deducted:
-- Retail price − Expenses = Profit. Expenses may include confirmed printing, paper, framing, mounting, packaging, payment processing, shop/platform fees, shipping subsidy, or other direct fulfilment costs. Do not include or exclude any of these automatically — ask Maka/accountant what counts as a deductible expense before the split.
-- Profit ÷ 2 = Gallery share = Artist share
-This means the retail price must be high enough that, after costs and the artist's half, the gallery keeps a fair margin. A low retail price quietly leaves the gallery working for almost nothing.
-Explicit math:
-- Gallery net share = (Retail price − confirmed expenses) ÷ 2
-- Artist share = (Retail price − confirmed expenses) ÷ 2
-- To work backwards: if Maka wants the gallery to keep [TARGET GEL], then Retail must be at least: Expenses + (2 × TARGET GEL).
-Always sanity-check: "after expenses and the 50% artist share, what does the gallery actually keep?"
+## The gallery's revenue-split structure
+
+Gallery Fotoatelier splits the **net sale price (excluding taxes)** 
+50/50 with the artist as the standard basis.
+
+**Net sale price definition:**
+The amount the buyer pays, excluding taxes, VAT, shipping 
+reimbursements, and any separately charged services. Do not include 
+any of these in the net sale price unless Maka or the accountant 
+confirms they are part of it.
+
+**Standard split:**
+- 50% to the gallery / 50% to the artist
+- Net sale price (excluding taxes) ÷ 2 = each party's share
+- Expenses (printing, framing, production) are NOT deducted before 
+  the split — when the gallery covers costs, that is the gallery's 
+  contribution, not a deduction from the artist's share
+
+**Shipping:**
+Shipping should be treated separately unless Maka confirms it is 
+included in the net sale price.
+
+Example:
+- Print sells for 1,500 GEL (excluding taxes, shipping separate)
+- Gallery share: 750 GEL
+- Artist share: 750 GEL
+
+**Cost-dependent variant (60/40):**
+When the photographer covers their own production and print costs 
+for a specific exhibition, the split may adjust to 60% artist / 
+40% gallery for that exhibition only. This applies to non-exclusive 
+photographers funding their own show — not to represented artists 
+whose costs the gallery covers. The 60/40 variant is case-by-case 
+and must be confirmed by Maka for that specific exhibition or 
+agreement.
+
+**Sponsor-funded exhibitions:**
+When the gallery secures a sponsor to cover exhibition costs, the 
+standard 50/50 net-sale-price split still applies. Finding and 
+managing sponsorship is the gallery's work and contribution — it 
+does not reduce the gallery's share. Sponsor funding is not treated 
+as an artist-side contribution unless Maka explicitly agrees 
+otherwise in writing.
+
+**Basis under review:**
+The exact split methodology is under Maka's review. These figures 
+are working parameters — Maka confirms all final pricing and split 
+terms before any agreement is signed. Never state a split to an 
+artist or collector as confirmed without Maka's explicit approval.
+
+**Always ask Maka:**
+- What costs count as gallery-covered vs. artist-covered for this deal?
+- Is the standard 50/50 or the 60/40 variant the right basis here?
+- Is shipping included in the net sale price or treated separately?
+- Has the net sale price been confirmed (excluding taxes and VAT)?
+
+**Note for Legal:**
+Every agreement must state the split basis explicitly — whether 
+costs are gallery-covered or artist-covered, and whether any sponsor 
+funding affects the split. Route to Legal agent for contract wording.
 
 ## What drives the price (dealer's reasoning)
 Reason through these four factors (industry-standard for fine-art photography):
