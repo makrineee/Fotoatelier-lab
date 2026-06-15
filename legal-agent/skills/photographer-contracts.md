@@ -48,8 +48,8 @@ The Artist **always retains copyright** in their work unless they explicitly and
 ## Works held by the Gallery
 If physical works are held by the Gallery, define: inventory list, condition on receipt, storage responsibility, insurance responsibility, and the return process on termination.
 
-## Insurance — the gallery's real policy
-The gallery's current practice (from signed agreements) is that the **Artist/Photographer arranges their own insurance** for their works, and the Gallery is not liable for damage, theft, or loss. Draft to this policy: state plainly that insurance is the Artist's responsibility and the Gallery's liability is limited accordingly. (Do not impose gallery-carried "nail-to-nail" coverage unless Maka decides to change this policy.) Any liability limitation must be reviewed by a qualified Georgian attorney; do not imply the Gallery can waive duties that law may impose. Flag insurance arrangements clearly in every agreement.
+## Insurance & liability
+Follow the gallery's control-based policy in `liability-insurance.md`. In the representation context: the **Artist/Photographer arranges their own insurance** for their works if they wish; the Gallery does **not** impose gallery-carried "nail-to-nail" coverage; liability is allocated by who has custody and control, and limited as set out in that policy. Any liability limitation must be reviewed by a qualified Georgian attorney; do not imply the Gallery can waive duties that mandatory law may impose. Flag insurance and liability arrangements clearly in every agreement.
 
 ## Edition control (for print/edition agreements)
 From the gallery's real practice, edition integrity is critical and should be a strong clause:

@@ -29,26 +29,31 @@ Every exhibition agreement must define:
 5. **Responsibilities** — curation, framing, printing, transport, install, invigilation, marketing (note: marketing copy is produced by the Marketing Agent, not here).
 6. **Costs & budget** — itemise who pays for what (production, framing, shipping, opening event, insurance). State currency (GEL).
 7. **Sales during the show** — whether works are for sale, prices, commission split, and how proceeds are divided.
-8. **Insurance & risk** — coverage "nail to nail" (from collection to return), insured value per work, and who insures.
-9. **Liability for damage/loss** — allocation of responsibility during transport, install, exhibition, and return.
+8. **Insurance & risk** — allocate risk by who has custody and control at each stage, per the control-based policy in `liability-insurance.md`. State the agreed value per work. The gallery does not carry formal art insurance by default and does not impose "nail to nail" coverage; high-value works or loans may still require formal insurance — confirm with Maka and an attorney.
+9. **Liability for damage/loss** — allocate responsibility by custody and control, tied to defined handover points (see `liability-insurance.md`), across transport, install, exhibition, and return.
 10. **Copyright & images** — the Gallery's right to photograph the show and works for documentation and promotion; Artist retains copyright.
 11. **Cancellation / postponement** — what happens and how costs are shared if the show is cancelled.
 12. **Governing law** — law of Georgia; venue Tbilisi.
 
 ## Loan Agreement Essentials
 When works are **loaned** for a show:
-- Identify the **Lender** and a numbered schedule of loaned works with insured values.
+- Identify the **Lender** and a numbered schedule of loaned works with agreed values.
 - Condition reports **on arrival and on return** (define who completes them).
 - Care, handling, and environmental conditions while on display.
-- "Nail to nail" insurance and who carries it.
+- Risk allocation for the loan period per `liability-insurance.md`; whether the lender carries insurance and whether a high-value loan needs a formal policy (confirm with Maka and an attorney).
 - Strict return date and return logistics; who pays shipping.
 - Credit line for the Lender exactly as they require.
 
-## Insurance Rule — NON-NEGOTIABLE
-Never draft an exhibition or loan agreement without an
-**insurance clause** stating: who insures, at what value,
-for which period, and "nail to nail" coverage. If insurance
-arrangements are unknown, flag this prominently for Maka.
+## Liability & Risk Rule — NON-NEGOTIABLE
+Never draft an exhibition or loan agreement without a clear
+**liability and risk-allocation clause** following the control-based
+policy in `liability-insurance.md`: who has custody and control at each
+stage, defined handover points, condition reports, agreed value, and any
+liability cap. The gallery does not use formal art insurance by default
+and does not impose "nail to nail" coverage; high-value works, loans, and
+international shipments may still require formal insurance — confirm with
+Maka and an attorney. All liability language requires Georgian attorney
+review. If arrangements are unknown, flag this prominently for Maka.
 
 ## Partners
 When a partner co-presents (see `../_shared/partners.md`):
@@ -59,6 +64,6 @@ When a partner co-presents (see `../_shared/partners.md`):
 ## Always Include
 - Numbered clauses, defined terms, all key dates.
 - Schedule of works and (for loans) condition-report references.
-- Insurance clause. Always.
+- Liability & risk-allocation clause. Always (per `liability-insurance.md`).
 - Signature blocks (Gallery: Maka Buadze, Director; and counterparties).
 - The standard Gallery jurisdiction disclaimer at the foot.

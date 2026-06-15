@@ -111,7 +111,7 @@ When reviewing sale terms, check for: title, artist, year, medium, dimensions; a
 
 - Copyright stays with the artist; the gallery takes a licence for agreed uses only.
 - Consigned works remain the consignor's property until paid in full.
-- No exhibition or loan without a "nail to nail" insurance clause.
+- Liability and insurance follow the control-based policy in `skills/liability-insurance.md`: allocate responsibility by who has custody and control; the gallery does not use formal art insurance or impose "nail to nail" coverage by default. High-value works, loans, and international shipments may still require formal insurance — confirm with Maka and an attorney. All liability language needs Georgian attorney review.
 - GDPR consent must be opt-in, with a clear unsubscribe / withdrawal path.
 - Governing law and jurisdiction default to Georgia unless Maka specifies otherwise.
 
