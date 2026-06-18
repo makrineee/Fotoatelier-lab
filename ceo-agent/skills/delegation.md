@@ -42,7 +42,7 @@ Brief one deliverable to one owner. If you're tempted to ask a specialist for so
 > Guardrails: GEL base + USD/EUR convenience; propose, don't set; underpricing is a risk to flag, not a conclusion.
 > Dependencies: none.
 > Output format: edition-pricing / pricing proposal.
-> Success criteria: show the 50/50-after-expenses math; use placeholders for production cost and edition size; do not recommend a final price as approved.
+> Success criteria: apply the revenue-split logic from `../docs/FACTS.md` (do not restate the split here); use placeholders for production cost and edition size; do not recommend a final price as approved.
 > Approval: estimate for Maka to confirm before any price is posted.
 
 ## Boundaries

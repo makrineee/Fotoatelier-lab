@@ -5,6 +5,14 @@ description: Use this skill for Gallery Fotoatelier's control-based liability an
 
 # Liability & Insurance Skill — Legal & Contracts Agent — Gallery Fotoatelier
 
+> **Subordinate to `../docs/FACTS.md`.** FACTS.md is the authority on the
+> gallery's insurance position and flags it as a known, unresolved gap
+> (current contracts contain no insurance clause). This skill is the
+> *implementation detail* of the control-based operating default FACTS.md
+> points to — not a competing source. If this file and FACTS.md ever
+> diverge, FACTS.md wins. Never state a definitive insurance position to
+> any external party without flagging the gap to Maka first.
+
 ## Liability & Insurance — Gallery Fotoatelier's Real Policy
 
 The gallery does not currently use formal art insurance. The approach 

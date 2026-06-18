@@ -20,11 +20,9 @@
 - **Director:** Maka Buadze
 - **Contact:** info@galleryfotoatelier.com
 
-## Currency Rules
+## Currency
 
-- **GEL (Georgian Lari, ₾)** is the official accounting and legal currency. All invoices and tax-relevant figures are recorded in GEL, because the entity is registered in Georgia and reports under Georgian law.
-- For **international collectors**, a USD or EUR amount may be shown **in addition** to the GEL figure, as a payment convenience. When doing so, always state the **exchange rate and the date** it was taken.
-- Never replace the GEL figure — always present GEL, then the foreign-currency equivalent alongside it.
+See `../docs/FACTS.md` — the single source of truth for currency. Do not restate currency rules here.
 
 ## Partners (current)
 

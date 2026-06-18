@@ -23,11 +23,10 @@ Every representation agreement must define:
 1. **Parties** — Gallery Fotoatelier (the "Gallery") and the photographer (the "Artist").
 2. **Scope of representation** — exclusive or non-exclusive, and the **territory** (e.g. Georgia only / worldwide).
 3. **Works covered** — which works, series, or future production.
-4. **Revenue split** — the Gallery's percentage and the Artist's/Photographer's percentage, AND the basis it is calculated on. State the basis explicitly. The gallery's real working models (from current signed agreements) are:
-   - Split is calculated on the **net sale price, excluding taxes** (not gross, not profit-after-expenses).
-   - **Cost-dependent default:** 50/50 when the Gallery covers all costs; 60% Photographer / 40% Gallery when the Photographer covers print/production costs. State which applies and what each side covers.
+4. **Revenue split** — the contract must state the Gallery's percentage and the Artist's/Photographer's percentage, AND the basis it is calculated on. State the basis explicitly. **The percentages, the cost-dependent scenarios, and the basis are defined in `../docs/FACTS.md` — the single source of truth. Read the split from there; do not restate or hard-code the percentages in this skill.**
+   - The split depends on who covers production costs — apply the relevant scenario from FACTS.md, and state which applies and what each side covers.
    - State the currency (GEL).
-   - **Methodology under review:** Maka is still researching how galleries best structure this split. Use the current model as the working basis, but treat the exact basis and percentages as confirmable-with-Maka, not finally settled. Do not present the split methodology as fixed.
+   - **Methodology under review:** Maka is still researching how galleries best structure this split (see FACTS.md). Use the current model in FACTS.md as the working basis, but treat the exact basis and percentages as confirmable-with-Maka, not finally settled. Do not present the split methodology as fixed.
 5. **Pricing approval** — who sets prices and how changes are agreed (Maka confirms all prices).
 6. **Term & renewal** — fixed term (e.g. 2 years) and renewal mechanism.
 7. **Termination** — notice period and what happens to unsold inventory and ongoing sales.
@@ -40,7 +39,7 @@ Every representation agreement must define:
 The Artist **always retains copyright** in their work unless they explicitly and in writing assign it. The Gallery takes a **licence**, never ownership of copyright, by default. Never draft a silent copyright transfer.
 
 ## Commission & Payment
-- State the split as explicit percentages with currency, AND its basis. The current working basis is the net sale price excluding taxes, cost-dependent (50/50 if the Gallery covers costs; 60/40 in the Photographer's favour if they cover print/production). Never write "50/50" without saying 50/50 of what and under which cost scenario. Treat the methodology as under review pending Maka's research.
+- State the split as explicit percentages with currency, AND its basis — taking the percentages, basis, and cost-dependent scenarios from `../docs/FACTS.md` (do not restate them here). Never write a bare percentage without saying what it is a percentage of and under which cost scenario. Treat the methodology as under review pending Maka's research (see FACTS.md).
 - State exactly when the Artist is paid (trigger = cleared funds; deadline = number of days).
 - State who bears costs (framing, shipping, production of editions) and how they are recouped. Make sure cost responsibility matches the selected revenue-split model, so costs are not deducted or recouped twice. Keep the contract's cost language consistent with the chosen split scenario.
 - Editions: define edition size, numbering, artist's proofs (APs), and that the edition is **closed** at the stated number.
@@ -49,7 +48,7 @@ The Artist **always retains copyright** in their work unless they explicitly and
 If physical works are held by the Gallery, define: inventory list, condition on receipt, storage responsibility, insurance responsibility, and the return process on termination.
 
 ## Insurance & liability
-Follow the gallery's control-based policy in `liability-insurance.md`. In the representation context: the **Artist/Photographer arranges their own insurance** for their works if they wish; the Gallery does **not** impose gallery-carried "nail-to-nail" coverage; liability is allocated by who has custody and control, and limited as set out in that policy. Any liability limitation must be reviewed by a qualified Georgian attorney; do not imply the Gallery can waive duties that mandatory law may impose. Flag insurance and liability arrangements clearly in every agreement.
+`../docs/FACTS.md` is the authority on the gallery's insurance position — it flags insurance as a known, unresolved gap (current contracts contain no insurance clause). Treat `liability-insurance.md` as the implementation detail of the control-based operating default that FACTS.md points to, not a competing source. In the representation context: the **Artist/Photographer arranges their own insurance** for their works if they wish; the Gallery does **not** impose gallery-carried "nail-to-nail" coverage; liability is allocated by who has custody and control, and limited as set out in that policy. Any liability limitation must be reviewed by a qualified Georgian attorney; do not imply the Gallery can waive duties that mandatory law may impose. Per FACTS.md, never state a definitive insurance position to any external party without flagging the gap to Maka first. Flag insurance and liability arrangements clearly in every agreement.
 
 ## Edition control (for print/edition agreements)
 From the gallery's real practice, edition integrity is critical and should be a strong clause:

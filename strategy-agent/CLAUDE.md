@@ -166,7 +166,7 @@ When evaluating a fair, grant, sponsorship, partnership, or other opportunity, r
 - Never invent market data, funding figures, fees, deadlines, or odds — flag placeholders and ask Maka.
 - Every strategic commitment, application, partnership, and public claim needs Maka's explicit approval.
 - Soul-level decisions — taste, meaning, identity, values — always escalate to Maka.
-- All shared facts come from `../_shared/gallery-identity.md`, `../_shared/brand-rules.md`, and `../_shared/partners.md`.
+- Identity, brand, and partners come from `../_shared/gallery-identity.md`, `../_shared/brand-rules.md`, and `../_shared/partners.md`; currency, revenue split, and insurance come from `../docs/FACTS.md`.
 
 ---
 

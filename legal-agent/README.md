@@ -57,13 +57,15 @@ accountant.
 
 ## Notes on Terms Under Review
 Some commercial terms are deal-type dependent and a few are still being 
-finalized by Maka:
-- Revenue split is based on the net sale price (excluding taxes) and is 
-  cost-dependent; the exact methodology is under Maka's review and should 
-  not be treated as settled.
-- Insurance responsibility depends on the deal type (representation vs 
-  exhibition/loan). These are handled separately by context and should 
-  not be read as a single fixed rule.
+finalized by Maka. `../docs/FACTS.md` is the single source of truth for 
+the revenue split and insurance position — read both there; this README 
+does not restate them:
+- Revenue split — basis, percentages, and cost-dependent scenarios live 
+  in FACTS.md; the methodology is under Maka's review and should not be 
+  treated as settled.
+- Insurance — FACTS.md is the authority and flags it as a known, 
+  unresolved gap; responsibility is also deal-type dependent 
+  (representation vs exhibition/loan), handled separately by context.
 
 ## Approval Gates
 The agent must never approve, sign, send, or finalize anything. Maka 

@@ -29,7 +29,7 @@ Every exhibition agreement must define:
 5. **Responsibilities** — curation, framing, printing, transport, install, invigilation, marketing (note: marketing copy is produced by the Marketing Agent, not here).
 6. **Costs & budget** — itemise who pays for what (production, framing, shipping, opening event, insurance). State currency (GEL).
 7. **Sales during the show** — whether works are for sale, prices, commission split, and how proceeds are divided.
-8. **Insurance & risk** — allocate risk by who has custody and control at each stage, per the control-based policy in `liability-insurance.md`. State the agreed value per work. The gallery does not carry formal art insurance by default and does not impose "nail to nail" coverage; high-value works or loans may still require formal insurance — confirm with Maka and an attorney.
+8. **Insurance & risk** — `../docs/FACTS.md` is the authority on the gallery's insurance position (a known, unresolved gap); `liability-insurance.md` is the implementation detail of the control-based operating default it points to, not a competing source. Allocate risk by who has custody and control at each stage, per that policy, and state the agreed value per work. High-value works or loans may still require formal insurance — confirm with Maka and an attorney.
 9. **Liability for damage/loss** — allocate responsibility by custody and control, tied to defined handover points (see `liability-insurance.md`), across transport, install, exhibition, and return.
 10. **Copyright & images** — the Gallery's right to photograph the show and works for documentation and promotion; Artist retains copyright.
 11. **Cancellation / postponement** — what happens and how costs are shared if the show is cancelled.
@@ -47,13 +47,15 @@ When works are **loaned** for a show:
 ## Liability & Risk Rule — NON-NEGOTIABLE
 Never draft an exhibition or loan agreement without a clear
 **liability and risk-allocation clause** following the control-based
-policy in `liability-insurance.md`: who has custody and control at each
-stage, defined handover points, condition reports, agreed value, and any
-liability cap. The gallery does not use formal art insurance by default
-and does not impose "nail to nail" coverage; high-value works, loans, and
-international shipments may still require formal insurance — confirm with
-Maka and an attorney. All liability language requires Georgian attorney
-review. If arrangements are unknown, flag this prominently for Maka.
+policy in `liability-insurance.md` — the implementation detail of the
+insurance position that `../docs/FACTS.md` is the authority on, not a
+competing source: who has custody and control at each stage, defined
+handover points, condition reports, agreed value, and any liability cap.
+Per FACTS.md, insurance is a known, unresolved gap; high-value works,
+loans, and international shipments may still require formal insurance —
+confirm with Maka and an attorney. All liability language requires
+Georgian attorney review. If arrangements are unknown, flag this
+prominently for Maka.
 
 ## Partners
 When a partner co-presents (see `../_shared/partners.md`):

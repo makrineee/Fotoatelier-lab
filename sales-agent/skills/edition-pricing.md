@@ -10,57 +10,34 @@ The agent PROPOSES price estimates with clear reasoning. Maka discusses and conf
 
 ## The gallery's revenue-split structure
 
-Gallery Fotoatelier splits the **net sale price (excluding taxes)** 
-50/50 with the artist as the standard basis.
+**The revenue split lives in `../docs/FACTS.md` — the single source of 
+truth.** It defines the percentages, the cost-dependent scenarios (who 
+covers production), the sponsor-funded case, and the basis the split is 
+calculated on. Read it there for every deal; do not restate or 
+recalculate the percentages here.
 
-**Net sale price definition:**
+What this skill adds on top of FACTS.md is operational, not the split 
+itself:
+
+**Net sale price definition (for applying the split):**
 The amount the buyer pays, excluding taxes, VAT, shipping 
 reimbursements, and any separately charged services. Do not include 
 any of these in the net sale price unless Maka or the accountant 
 confirms they are part of it.
 
-**Standard split:**
-- 50% to the gallery / 50% to the artist
-- Net sale price (excluding taxes) ÷ 2 = each party's share
-- Expenses (printing, framing, production) are NOT deducted before 
-  the split — when the gallery covers costs, that is the gallery's 
-  contribution, not a deduction from the artist's share
-
 **Shipping:**
 Shipping should be treated separately unless Maka confirms it is 
 included in the net sale price.
 
-Example:
-- Print sells for 1,500 GEL (excluding taxes, shipping separate)
-- Gallery share: 750 GEL
-- Artist share: 750 GEL
-
-**Cost-dependent variant (60/40):**
-When the photographer covers their own production and print costs 
-for a specific exhibition, the split may adjust to 60% artist / 
-40% gallery for that exhibition only. This applies to non-exclusive 
-photographers funding their own show — not to represented artists 
-whose costs the gallery covers. The 60/40 variant is case-by-case 
-and must be confirmed by Maka for that specific exhibition or 
-agreement.
-
-**Sponsor-funded exhibitions:**
-When the gallery secures a sponsor to cover exhibition costs, the 
-standard 50/50 net-sale-price split still applies. Finding and 
-managing sponsorship is the gallery's work and contribution — it 
-does not reduce the gallery's share. Sponsor funding is not treated 
-as an artist-side contribution unless Maka explicitly agrees 
-otherwise in writing.
-
-**Basis under review:**
-The exact split methodology is under Maka's review. These figures 
-are working parameters — Maka confirms all final pricing and split 
-terms before any agreement is signed. Never state a split to an 
-artist or collector as confirmed without Maka's explicit approval.
+**Working terms, not final:**
+The split methodology is under Maka's review (see FACTS.md). Maka 
+confirms all final pricing and split terms before any agreement is 
+signed. Never state a split to an artist or collector as confirmed 
+without Maka's explicit approval.
 
 **Always ask Maka:**
 - What costs count as gallery-covered vs. artist-covered for this deal?
-- Is the standard 50/50 or the 60/40 variant the right basis here?
+- Which split scenario in FACTS.md applies here?
 - Is shipping included in the net sale price or treated separately?
 - Has the net sale price been confirmed (excluding taxes and VAT)?
 
@@ -82,8 +59,8 @@ To propose a price, work it through and SHOW the steps:
 1. Production cost per size (the floor): [PRINTING + PAPER COST — confirm with Maka]. Framing add-ons: [FRAME COSTS — confirm].
 2. Edition size for this work: [EDITION SIZE — confirm; smaller = higher price].
 3. Artist standing and tier (Tier 1 unique / Tier 2 limited / Tier 3 accessible).
-4. Propose a retail price that, AFTER expenses and the 50% artist share, leaves the gallery a fair margin AND fits the tier and the artist's standing.
-5. Show the breakdown: Retail − Expenses = Profit; Gallery 50% / Artist 50%.
+4. Propose a retail price that covers production and leaves the gallery a fair margin after the revenue split (see `../docs/FACTS.md` for the split logic) AND fits the tier and the artist's standing.
+5. Show the breakdown using the revenue-split logic in `../docs/FACTS.md` — do not restate the split percentages or basis here.
 6. Note the international (USD/EUR) convenience figure with rate + date.
 7. State clearly: this is an ESTIMATE for Maka to confirm.
 
@@ -109,7 +86,7 @@ Some specific limited series rise in price as they sell through (early prints ch
 3. Tier (1 unique / 2 limited / 3 accessible)
 4. Inputs used (production cost, framing, edition size) — placeholders where unconfirmed
 5. Proposed retail price in GEL (+ USD/EUR convenience, rate + date)
-6. Profit breakdown: Retail − Expenses = Profit; Gallery 50% / Artist 50%
+6. Profit breakdown using the revenue-split logic in `../docs/FACTS.md` (do not restate the split percentages or basis here)
 7. Reasoning (size, rarity, material, artist standing, market)
 8. Assumptions and missing data (what Maka must confirm)
 9. Approval required: YES — Maka confirms before any price is posted or quoted
