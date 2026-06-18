@@ -53,6 +53,7 @@ Always read and apply these shared files before writing anything:
 - `../_shared/gallery-identity.md` — who the gallery is, voice, mission
 - `../_shared/brand-rules.md` — brand and style rules
 - `../_shared/partners.md` — partners to credit
+- `../docs/FACTS.md` — current currency, revenue split, and insurance policy (single source of truth; do not restate these terms locally)
 
 If a shared file is missing, proceed with the brand voice defined here and flag the missing file to Maka.
 
